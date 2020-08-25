@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "grocery-list-manager"
+    }
+  },
+  "defaultProject": "grocery-list-manager",
+  "cli": {
+    "analytics": "9b5c3907-9c85-46c2-852d-111dc86b7ec3"
+  }
 }
