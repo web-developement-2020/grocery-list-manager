@@ -4,11 +4,10 @@ import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { NgModule } from '@angular/core';
-import { AppComponent } from './app.component';
+
 import { GroceryComponent } from './app.grocery';
 @NgModule({
   declarations: [
-    AppComponent,
 GroceryComponent
   ],
   imports: [
